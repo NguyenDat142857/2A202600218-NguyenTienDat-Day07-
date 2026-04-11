@@ -207,14 +207,7 @@ Pipeline:
 ---
 
 ### Test Results
-
-```bash
-==========================
-42 passed, 0 failed
-==========================
-```
-
-**Số tests pass:** 42 / 42 ✅
+![alt text](image.png)
 
 ---
 
