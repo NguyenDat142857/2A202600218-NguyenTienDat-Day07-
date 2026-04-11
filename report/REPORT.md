@@ -1,4 +1,3 @@
----
 
 # 📄 Báo Cáo Lab 7: Embedding & Vector Store
 
