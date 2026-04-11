@@ -8,7 +8,7 @@
 
 File báo cáo của tôi nằm tại:
 
-report/REPORT.md
+[report/REPORT.md](report/REPORT.md)
 
 
 Báo cáo bao gồm:
