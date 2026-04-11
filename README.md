@@ -30,7 +30,7 @@ python -m pytest tests/ -v
 
 **Kết quả:**
 
-42 passed in 1.44s
+42 passed in 0.41s
 
 ---
 
