@@ -2,6 +2,39 @@
 
 ---
 
+## 📄 Report & Results
+
+### 🔗 Báo cáo chi tiết
+
+File báo cáo của tôi nằm tại:
+
+
+report/REPORT.md
+
+
+Báo cáo bao gồm:
+- Phân tích cosine similarity và chunking strategies
+- So sánh FixedSize, Sentence và Recursive chunking
+- Thiết kế EmbeddingStore và RAG Agent
+- Kết quả benchmark retrieval
+- Reflection và bài học rút ra
+
+---
+
+### ✅ Kết quả chạy test
+
+Tôi đã hoàn thành toàn bộ các TODO trong `src/` và chạy thành công toàn bộ test suite:
+
+
+python -m pytest tests/ -v
+
+
+**Kết quả:**
+
+42 passed in 1.44s
+
+---
+
 ## Mục Tiêu
 
 Sau lab này, bạn cần có thể:
