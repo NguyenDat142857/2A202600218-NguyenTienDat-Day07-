@@ -208,6 +208,7 @@ Pipeline:
 
 ### Test Results
 ![alt text](image.png)
+42 passed in 0.41s
 
 ---
 
